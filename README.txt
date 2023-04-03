@@ -1,0 +1,1 @@
+this is a running workbook as I read through the book "Who's #1? The Science of Rating and Ranking". I'm using the 2022 NFL season as a test subject for my work.

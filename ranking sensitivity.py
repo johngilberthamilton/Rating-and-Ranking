@@ -21,7 +21,7 @@ from sklearn.preprocessing import normalize
 from numpy.linalg import eig
 
 
-wg = pd.read_csv('C:/Users/hamilj37/OneDrive - Pfizer/Documents/ranking/2022NFLseason.csv')
+wg = pd.read_csv('/2022NFLseason.csv')
 wg = wg.rename(columns={'Unnamed: 5': 'homeaway','Winner/tie':'winner','Loser/tie':'loser'})
 wg = wg.drop('Unnamed: 7', axis = 1)
 
